@@ -12,7 +12,9 @@
     },
     "rules": {
         "arrow-body-style": ["error", "always"],
-        "properties": ["always"]
+        "properties": ["always"],
+        "allow": ["functions"]
         
+
     }
 }
